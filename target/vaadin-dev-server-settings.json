@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "E:/Programming/workspace/Todolist-Jmix/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "E:/Programming/workspace/Todolist-Jmix/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "E:/Programming/workspace/Todolist-Jmix/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "E:\\Programming\\workspace\\Todolist-Jmix\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "E:\\Programming\\workspace\\Todolist-Jmix\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "E:/Programming/workspace/Todolist-Jmix/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "E:/Programming/workspace/Todolist-Jmix/target/dev-bundle/config",
+  "i18nOutput": "target/classes/vaadin-i18n",
+  "jarResourcesFolder": "E:/Programming/workspace/Todolist-Jmix/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "E:\\Programming\\workspace\\Todolist-Jmix\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
